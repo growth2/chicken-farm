@@ -3,3 +3,6 @@ chicken/platforms/android/CordovaLib/build/
 chicken/build/
 chicken/platforms/android/.gradle/
 chicken/platforms/android/.idea/
+chicken/platforms/ios/www/mobile/1.4.5/demos/
+chicken/www/mobile/1.4.5/demos/
+chicken/platforms/android/assets/www/mobile/1.4.5/demos/
