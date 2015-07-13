@@ -1,0 +1,5 @@
+docuToryApp/
+chicken/platforms/android/CordovaLib/build/
+chicken/build/
+chicken/platforms/android/.gradle/
+chicken/platforms/android/.idea/
